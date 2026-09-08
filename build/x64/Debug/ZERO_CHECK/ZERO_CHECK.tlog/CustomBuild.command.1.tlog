@@ -1,0 +1,10 @@
+^C:\USERS\BRAND\CMAKE-CATCH2-LAB\BUILD\CMAKEFILES\198030AEDF06DC7094E86B0B01CF6E94\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/brand/cmake-catch2-lab -BC:/Users/brand/cmake-catch2-lab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/brand/cmake-catch2-lab/build/CalcApp.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

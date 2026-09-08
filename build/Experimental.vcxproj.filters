@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brand\cmake-catch2-lab\build\CMakeFiles\198030aedf06dc7094e86b0b01cf6e94\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\cmake-catch2-lab\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\brand\cmake-catch2-lab\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B75D9BBF-2C69-3235-8316-CE572ACF6AB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
